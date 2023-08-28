@@ -1,4 +1,13 @@
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Erika</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Erika</h3>
+
+<p align="center">
+  <a href="www.linkedin.com/in/erikanagaki">LinkedIn</a> •
+  <a href="www.instagram.com/enagaki/">Instagram</a>
+</p>
+
+---
+
+
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
