@@ -28,6 +28,7 @@ I also draw from time to time, both traditional and digital media and post at [t
 ---
 
 <h3>📈 My Stats</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Geyiro&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--
