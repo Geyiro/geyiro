@@ -7,12 +7,19 @@
 
 ---
 
-
-I am a front-end developer with a background in graphic design. Beyond enjoying implementing my designs into interactive applications, I am passionate about initiating and taking part in projects that have some form of social impact. Being able to identify a need and translate it into a simple solution is the most rewarding aspect of both careers.
-
-I love gaining insights from different perspectives and constantly challenge myself to step out of my comfort zone. People who know me are aware that I am always looking to try new things and engage in physical activities that represent a challenge. For example, I cannot swim, but it didn't stop me from practicing surf or going canoeing in a turbulent river.
+✨ I am a front-end developer with a background in graphic design. Beyond enjoying implementing my designs into interactive applications, I am passionate about initiating and taking part in projects that have some form of social impact. Being able to identify a need and translate it into a simple solution is the most rewarding aspect of both careers.
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="auto" height="320" />
+
+- 😄 Pronouns: She/Her   
+
+- 🌱 I’m currently learning: Javascript, Node.js, Bootstrap, React
+
+- 📫 How to reach me: enagaki.22@gmail.com
+
+- 💓 Hobbies : I am a member of an independent group dedicated to rescuing and adopting dogs, called [Patita Solidaria](https://www.instagram.com/patita_solidarias/)
+I also enjoy drawing from time to time, both traditional and digital media [at this account](https://www.instagram.com/ffpryk/)
+
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
