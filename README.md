@@ -10,7 +10,7 @@
 ✨ I am a front-end developer with a background in graphic design. Beyond enjoying implementing my designs into interactive applications, I am passionate about initiating and taking part in projects that have some form of social impact. Being able to identify a need and translate it into a simple solution is the most rewarding aspect of both careers.
 
 
-<img align="right" alt="GIF" src="https://i.gifer.com/MqI.gif" width="220" height="auto" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="220" height="auto" />
 
 &nbsp;
 &nbsp;
