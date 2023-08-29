@@ -28,8 +28,7 @@ I also draw from time to time, both traditional and digital media and post at [t
 ---
 
 &nbsp;
-## &#x1f4c8; GitHub Stats
-
+<h3>📈 My Stats</h3>
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
