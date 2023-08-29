@@ -29,7 +29,12 @@ I also draw from time to time, both traditional and digital media and post at [t
 
 <h3>📈 My Stats</h3>
 
+<div align="right">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Geyiro&theme=aura&hide_border=true&border_radius=10&mode=weekly&card_width=350&hide_current_streak=true)](https://git.io/streak-stats)
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
 
