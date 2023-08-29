@@ -27,8 +27,10 @@ I also draw from time to time, both traditional and digital media and post at [t
 
 ---
 
-&nbsp;
 <h3>📈 My Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Geyiro&theme=sunset-gradient&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
