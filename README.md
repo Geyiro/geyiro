@@ -28,6 +28,8 @@ I also draw from time to time, both traditional and digital media and post at [t
 ---
 <h3>🔧 Languages and Tools</h3>
 
+&nbsp;
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50" height="auto"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="50" height="auto"/>
@@ -44,6 +46,8 @@ I also draw from time to time, both traditional and digital media and post at [t
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="50" height="auto"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/aftereffects/aftereffects-plain.svg" width="50" height="auto"/>
 </div>
+
+&nbsp;
 
 ---
 
