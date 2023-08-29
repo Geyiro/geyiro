@@ -1,4 +1,4 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Erika</h3>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Erika</h2>
 
 <p align="center">
   <a href="www.linkedin.com/in/erikanagaki">LinkedIn</a> •
@@ -24,8 +24,11 @@
 I also draw from time to time, both traditional and digital media and post at [this account](https://www.instagram.com/ffpryk/)
 
 &nbsp;
-&nbsp;
 
+---
+
+&nbsp;
+## &#x1f4c8; GitHub Stats
 
 
 <!--
