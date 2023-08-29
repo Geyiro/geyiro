@@ -26,6 +26,11 @@ I also draw from time to time, both traditional and digital media and post at [t
 &nbsp;
 
 ---
+<h3>🔧 Languages and Tools</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="30" height="auto" />
+
+---
 
 <h3>📈 My Stats</h3>
 
