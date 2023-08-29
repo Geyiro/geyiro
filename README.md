@@ -11,8 +11,8 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="220" height="auto" />
 
-
-
+&nbsp;
+&nbsp;
 - 😄 Pronouns: She/Her   
 
 - 🌱 I’m currently learning: Javascript, Node.js, Bootstrap, React
