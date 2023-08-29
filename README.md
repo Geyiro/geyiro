@@ -11,6 +11,8 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="220" height="auto" />
 
+
+
 - 😄 Pronouns: She/Her   
 
 - 🌱 I’m currently learning: Javascript, Node.js, Bootstrap, React
@@ -18,7 +20,7 @@
 - 📫 How to reach me: enagaki.22@gmail.com
 
 - 💓 Hobbies : I am a member of an independent group dedicated to rescuing and adopting dogs, called [Patita Solidaria](https://www.instagram.com/patita_solidarias/)
-I also enjoy drawing from time to time, both traditional and digital media [at this account](https://www.instagram.com/ffpryk/)
+I also draw from time to time, both traditional and digital media and post at [this account](https://www.instagram.com/ffpryk/)
 
 
 <!--
