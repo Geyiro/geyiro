@@ -12,7 +12,7 @@ I am a front-end developer with a background in graphic design. Beyond enjoying 
 
 I love gaining insights from different perspectives and constantly challenge myself to step out of my comfort zone. People who know me are aware that I am always looking to try new things and engage in physical activities that represent a challenge. For example, I cannot swim, but it didn't stop me from practicing surf or going canoeing in a turbulent river.
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.webp" width="auto" height="320" />
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
