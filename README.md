@@ -30,10 +30,9 @@ I also draw from time to time, both traditional and digital media and post at [t
 <h3>📈 My Stats</h3>
 
 
-<img align="right" src=""https://github-readme-streak-stats.herokuapp.com/?user=Geyiro"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geyiro&layout=compact)
 
 <!--
 **Geyiro/geyiro** is a ✨ _special_ ✨ repository because its `README.md` (t his file) appears on your GitHub profile.
