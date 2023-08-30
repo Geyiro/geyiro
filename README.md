@@ -20,13 +20,13 @@
 
 - 📫 How to reach me: enagaki.22@gmail.com
 
-- 💓 Hobbies : I am a member of an independent group dedicated to rescuing and adopting dogs, called [Patita Solidaria](https://www.instagram.com/patita_solidarias/)
+- 💓 Hobbies : I am a member of an independent group dedicated to rescuing and adopting dogs called [Patita Solidaria](https://www.instagram.com/patita_solidarias/).
 I also draw from time to time, both traditional and digital media and post at [this account](https://www.instagram.com/ffpryk/)
 
 &nbsp;
 
 ---
-<h3>🔧 Languages and Tools</h3>
+<h3>🧰 My Tool Box</h3>
 
 &nbsp;
 
